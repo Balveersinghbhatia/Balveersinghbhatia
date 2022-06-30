@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Balveersinghbhatia
 - 👀 I’m interested in frontend web development and programming
-- 🌱 I’m currently learning javascript.
-- 💞
+- 🌱 I’m currently learning react.js
 - 📫 How to reach me : my email: Balveerbhatiakk@gmail.com
 - See my portfolio site: https://balveersingh.online
 <!---
